@@ -1,1 +1,1 @@
-# Rest_API_Application
+# GraphQL Frontend
